@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RNPaintPicture.iml" filepath="$PROJECT_DIR$/.idea/modules/RNPaintPicture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1859926927/RNPaintPicture.@react-native-community_cameraroll.iml" filepath="$PROJECT_DIR$/.idea/modules/-1859926927/RNPaintPicture.@react-native-community_cameraroll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1340382019/RNPaintPicture.@terrylinla_react-native-sketch-canvas.iml" filepath="$PROJECT_DIR$/.idea/modules/1340382019/RNPaintPicture.@terrylinla_react-native-sketch-canvas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RNPaintPicture.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RNPaintPicture.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1859926927/RNPaintPicture.react-native-community_cameraroll.iml" filepath="$PROJECT_DIR$/.idea/modules/-1859926927/RNPaintPicture.react-native-community_cameraroll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1340382019/RNPaintPicture.terrylinla_react-native-sketch-canvas.iml" filepath="$PROJECT_DIR$/.idea/modules/1340382019/RNPaintPicture.terrylinla_react-native-sketch-canvas.iml" />
+    </modules>
+  </component>
+</project>
